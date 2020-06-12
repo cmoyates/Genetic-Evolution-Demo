@@ -6,7 +6,7 @@ See it in action here: https://cmoyates.github.io/Genetic-Evolution-Demo-Build/
 
 And for proof that it works check out this video: https://youtu.be/x3R0bHblWsA    
 
-All of this project is original work with the exception of the contents of the "Thirdparty" folder in "Assets" (namely the camera controller and the grid materials).
+All of this project is original work with the exception of the contents of the "Thirdparty" folder in "Assets" (namely the camera controller and the grid materials), although it was heavily inspired by this video: https://youtu.be/yCz87N6qaRs
 
 The camera controller is a slightly modified version of the one found here: https://wiki.unity3d.com/index.php/FlyCam_Extended
 
