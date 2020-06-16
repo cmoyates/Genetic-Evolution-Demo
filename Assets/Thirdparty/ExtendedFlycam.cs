@@ -21,7 +21,7 @@ public class ExtendedFlycam : MonoBehaviour
                         End:    Toggle cursor locking to screen (you can also press Ctrl+P to toggle play mode on and off).
 	*/
 
-	//The only things I changed in this script were updating the cursor/lock functionality and dividing the sensitivity by the timeScale
+	//The only things I changed in this script were updating the cursor/lock functionality and dividing Time.deltaTime by the timeScale.
 	public float cameraSensitivity = 90;
 	public float climbSpeed = 4;
 	public float normalMoveSpeed = 10;
