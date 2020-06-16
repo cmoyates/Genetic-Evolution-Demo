@@ -6,7 +6,7 @@ See it in action here: https://cmoyates.github.io/Genetic-Evolution-Demo-Build/
 
 And for proof that it works check out this video: https://youtu.be/x3R0bHblWsA  
 
-# Credits
+## Credits
 
 All of this project is original work with the exception of the contents of the "Thirdparty" folder in "Assets" (namely the camera controller and the grid materials), although it was heavily inspired by this video: https://youtu.be/yCz87N6qaRs
 
