@@ -2,7 +2,7 @@
 
 This is a small game made with Unity that demonstrates Genetic Evolution.
 
-See it in action here: https://cmoyates.github.io/Genetic-Evolution-Demo-Build/
+See it in action here: https://cmoyates.github.io/Genetic-Evolution-Demo/
 
 And for proof that it works check out this video: https://youtu.be/x3R0bHblWsA  
 
