@@ -1,7 +1,7 @@
 {
 "companyName": "Cristopher Yates",
 "productName": "Genetic Evolution Demo",
-"productVersion": "0.0.14",
+"productVersion": "0.0.16",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
