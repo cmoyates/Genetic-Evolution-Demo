@@ -1,12 +1,12 @@
-name: Build
+name: Build and Deploy
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
   workflow_dispatch:
 
 jobs:
-  Build:
+  Build_and_Deploy:
     runs-on: ubuntu-latest
     
     steps:
@@ -16,9 +16,9 @@ jobs:
         uses: actions/cache@v2
         with:
           path: Library
-          key: Library-CI-CD-Unity-Test-WebGL
+          key: Library-Genetic-Evolution-Demo-WebGL
           restore-keys: |
-            Library-CI-CD-Unity-Test-
+            Library-Genetic-Evolution-Demo-
             Library-
       - name: Build
         uses: game-ci/unity-builder@v2
